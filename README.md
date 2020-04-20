@@ -17,4 +17,4 @@ https://www8.hp.com/h20195/V2/getpdf.aspx/4AA7-3873ENW.pdf
 # https://cybersecurity.att.com/blogs/security-essentials/explain-cryptojacking-to-me
 # https://www.keepnetlabs.com/phishing-training/
 # https://www.pandasecurity.com/mediacenter/security/what-is-cryptojacking/
-# 
+# https://coinmarketcap.com/charts/ 
