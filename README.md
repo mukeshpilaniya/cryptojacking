@@ -18,3 +18,5 @@ https://www8.hp.com/h20195/V2/getpdf.aspx/4AA7-3873ENW.pdf
 # https://www.keepnetlabs.com/phishing-training/
 # https://www.pandasecurity.com/mediacenter/security/what-is-cryptojacking/
 # https://coinmarketcap.com/charts/ 
+
+# https://twitter.com/imnoah/status/936948776119537665
