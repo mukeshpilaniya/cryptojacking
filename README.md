@@ -20,3 +20,4 @@ https://www8.hp.com/h20195/V2/getpdf.aspx/4AA7-3873ENW.pdf
 # https://coinmarketcap.com/charts/ 
 
 # https://twitter.com/imnoah/status/936948776119537665
+# https://www.sophos.com/en-us/medialibrary/gated-assets/white-papers/stand-up-to-cryptojacking.pdf
