@@ -21,3 +21,5 @@ https://www8.hp.com/h20195/V2/getpdf.aspx/4AA7-3873ENW.pdf
 
 # https://twitter.com/imnoah/status/936948776119537665
 # https://www.sophos.com/en-us/medialibrary/gated-assets/white-papers/stand-up-to-cryptojacking.pdf
+
+# https://docs.broadcom.com/doc/istr-cryptojacking-modern-cash-cow-en
