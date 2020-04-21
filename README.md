@@ -24,3 +24,5 @@ https://www8.hp.com/h20195/V2/getpdf.aspx/4AA7-3873ENW.pdf
 
 # https://docs.broadcom.com/doc/istr-cryptojacking-modern-cash-cow-en(images )
 # https://www.sisainfosec.com/blogs/cryptojacking-threat-impacts-how-to-protect-business-from-becoming-a-victim/(source code)
+
+# https://search.proquest.com/openview/3f281a8b2679f36fd4bbe5450060648e/1?pq-origsite=gscholar&cbl=18750&diss=y
