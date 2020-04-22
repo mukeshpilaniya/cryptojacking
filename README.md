@@ -26,3 +26,5 @@ https://www8.hp.com/h20195/V2/getpdf.aspx/4AA7-3873ENW.pdf
 # https://www.sisainfosec.com/blogs/cryptojacking-threat-impacts-how-to-protect-business-from-becoming-a-victim/(source code)
 
 # https://search.proquest.com/openview/3f281a8b2679f36fd4bbe5450060648e/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+# https://go.malwarebytes.com/rs/805-USG-300/images/Drive-by_Mining_FINAL.pdf
